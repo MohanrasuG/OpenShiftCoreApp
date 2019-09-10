@@ -1,0 +1,14 @@
+C:\DotNetCore\OpenShiftCoreApp\bin\Debug\netcoreapp2.1\OpenShiftCoreApp.deps.json
+C:\DotNetCore\OpenShiftCoreApp\bin\Debug\netcoreapp2.1\OpenShiftCoreApp.runtimeconfig.json
+C:\DotNetCore\OpenShiftCoreApp\bin\Debug\netcoreapp2.1\OpenShiftCoreApp.runtimeconfig.dev.json
+C:\DotNetCore\OpenShiftCoreApp\bin\Debug\netcoreapp2.1\OpenShiftCoreApp.dll
+C:\DotNetCore\OpenShiftCoreApp\bin\Debug\netcoreapp2.1\OpenShiftCoreApp.pdb
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.csprojAssemblyReference.cache
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.csproj.CoreCompileInputs.cache
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.RazorAssemblyInfo.cache
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.RazorAssemblyInfo.cs
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.AssemblyInfoInputs.cache
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.AssemblyInfo.cs
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.RazorTargetAssemblyInfo.cache
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.dll
+C:\DotNetCore\OpenShiftCoreApp\obj\Debug\netcoreapp2.1\OpenShiftCoreApp.pdb
